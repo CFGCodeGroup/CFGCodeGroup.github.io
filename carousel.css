@@ -34,8 +34,8 @@ body {
   width: auto;
 }
 
-.navbar-default .navbar-nav .open .dropdown-menu {color: white;
-                                                    background-color: black}
+.dropdown-menu {color: white;
+background-color: black;}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */

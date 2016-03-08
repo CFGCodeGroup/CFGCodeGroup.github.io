@@ -98,6 +98,9 @@ background-color: black;}
   letter-spacing: -1px;
 }
 
+.featurette-image {
+  vertical-algin: middle;
+}
 
 
 /* RESPONSIVE CSS

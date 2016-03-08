@@ -136,7 +136,7 @@ body {
 }
 
 @media (min-width: 1100px) {
-  .carousel
+  .carousel-inner > .item > img {
     max-width: 80%;
 }
 }

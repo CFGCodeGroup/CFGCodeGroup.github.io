@@ -34,6 +34,8 @@ body {
   width: auto;
 }
 
+.navbar-default .navbar-nav .open .dropdown-menu {color: white;
+                                                    background-color: black}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
@@ -93,6 +95,7 @@ body {
   line-height: 1;
   letter-spacing: -1px;
 }
+
 
 
 /* RESPONSIVE CSS

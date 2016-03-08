@@ -54,10 +54,14 @@ body {
 }
 .carousel-inner > .item > img {
   position: absolute;
+  /* libby added this
+  object-fit: cover;
+  overflow: hidden;
+  end of what libby added */
   top: 0;
   left: 0;
   min-width: 100%;
-  /* libby added min-height to stop stretching. Commented out the fixed height */
+  /* libby also added min-height and commented out the fixed height */
   min-height: 100%;
   /* height: 500px; */
 }
@@ -123,11 +127,6 @@ body {
     font-size: 21px;
     line-height: 1.4;
   }
-
-/* libby added this because imgs were stretching in mobile view */
-.carousel-inner > .item > img {
-  min-width: 100%;
-  min-height: 100%;
 
   .featurette-heading {
     font-size: 50px;

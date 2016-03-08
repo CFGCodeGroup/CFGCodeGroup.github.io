@@ -37,7 +37,7 @@ body {
 .dropdown-menu {color: white;
 background-color: black;}
 
-.person {color: white;}
+.dropdown-menu a:link{color: white;}
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */

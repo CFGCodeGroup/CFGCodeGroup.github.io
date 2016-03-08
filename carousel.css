@@ -139,5 +139,6 @@ body {
   /* stopping excessive stretching of page on wide screens */
   body{
     max-width: 80%;
+    margin: 0 auto;
   }
 }

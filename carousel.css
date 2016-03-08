@@ -54,10 +54,6 @@ body {
 }
 .carousel-inner > .item > img {
   position: absolute;
-  /* libby added this
-  object-fit: cover;
-  overflow: hidden;
-  end of what libby added */
   top: 0;
   left: 0;
   min-width: 100%;

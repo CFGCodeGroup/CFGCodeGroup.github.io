@@ -35,8 +35,10 @@ body {
 }
 
 /* make Casson Lab white - Libby */
-.navbar-brand {
-  color: white;
+.navbar-inverse .navbar-brand, 
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus {
+  color: #fff;
 }
 
 

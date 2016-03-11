@@ -19,11 +19,14 @@ body {
   right: 0;
   left: 0;
   z-index: 20;
+<<<<<<< HEAD
   /*background added by libby */
   background: url("./assets/plants-header.jpg");
   background-size: cover;
   /* edit this later to position background better
   background-position: etc; */
+=======
+>>>>>>> master
 }
 
 /* Flip around the padding for proper display in narrow viewports */

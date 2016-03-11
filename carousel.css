@@ -34,6 +34,10 @@ body {
   width: auto;
 }
 
+/* make Casson Lab white - Libby */
+.navbar-brand {
+  color: white;
+}
 
 
 /* CUSTOMIZE THE CAROUSEL

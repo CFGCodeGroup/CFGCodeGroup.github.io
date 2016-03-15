@@ -106,6 +106,10 @@ body {
   letter-spacing: -1px;
 }
 
+/* Bulletpoint spacing */
+.row-featurette > li { 
+  padding: 5px 0px; 
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */

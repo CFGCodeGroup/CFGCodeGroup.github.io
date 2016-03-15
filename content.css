@@ -19,8 +19,6 @@ body {
   right: 0;
   left: 0;
   z-index: 20;
-  margin-top: 0;
-  padding-top: 20px;
   /*background added by libby */
   background: url("./assets/plants-header.jpg");
   background-size: cover;
@@ -115,7 +113,7 @@ body {
 @media (min-width: 768px) {
   /* Navbar positioning foo */
   .navbar-wrapper {
-    margin-top: 20px;
+    padding-top: 20px;
   }
   .navbar-wrapper .container {
     padding-right: 15px;

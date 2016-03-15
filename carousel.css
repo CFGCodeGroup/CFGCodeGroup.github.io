@@ -101,7 +101,18 @@ body {
   letter-spacing: -1px;
 }
 
+/* Bulletpoint spacing */
+.public{ 
+  padding: 10px 0px; 
+}
 
+/* Contact page */
+.contactpage p{font-size:21px;
+  }
+
+.contactpage h2{font-size: 30px;
+ color:black;
+ margin-top: 20px}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
@@ -143,13 +154,4 @@ body {
   }
 }
 
-/*our own css coding*/
 
-.contactpage p{font-size:21px;
-                }
-
-.contactpage h2{font-size: 30px;
-                color:black;
-                margin-top: 20px}
-
-.public{margin-bottom: 15px;}

@@ -108,8 +108,16 @@ body {
 
 /* Bulletpoint spacing */
 .public{ 
-  padding: 5px 0px; 
+  padding: 10px 0px; 
 }
+
+/* Contact page */
+.contactpage p{font-size:21px;
+  }
+
+.contactpage h2{font-size: 30px;
+ color:black;
+ margin-top: 20px}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */

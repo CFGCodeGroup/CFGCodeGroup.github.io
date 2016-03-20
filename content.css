@@ -115,6 +115,8 @@ body {
     float: none;
 }
 
+.featurette-image {margin-top:50px;}
+
 /* Bulletpoint spacing */
 .public{ 
   padding: 10px 0px; 
@@ -126,7 +128,7 @@ body {
 
 .contactpage h2{font-size: 30px;
  color:black;
- margin-top: 20px}
+ margin-top: 20px;}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */

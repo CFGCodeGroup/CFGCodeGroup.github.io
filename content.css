@@ -107,7 +107,18 @@ body {
 }
 
 /*space pictures down*/
-.col-md-5 {margin-top:50;}
+	
+
+.row featurette {
+    display: table;
+    table-layout: fixed;
+}
+
+.col-md-5 {
+    display:table-cell;
+    vertical-align:middle;
+    text-align:center;
+}
 
 /* Bulletpoint spacing */
 .public{ 

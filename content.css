@@ -109,8 +109,10 @@ body {
 /*space pictures down*/
 	
 
- .featurette-image {
-  margin-top: −120px;}
+ .vertical-align {
+    display: flex;
+    align-items: center;
+}
 
 /* Bulletpoint spacing */
 .public{ 

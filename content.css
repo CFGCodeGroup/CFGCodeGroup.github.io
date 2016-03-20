@@ -109,22 +109,10 @@ body {
 /*space pictures down*/
 	
 
- .vertical-align {
-    display: flex;
-    align-items: center;
-}
-
-.vertical-align {
-  display: flex;
-  flex-direction: row;
-}
-
-.vertical-align > [class^="col-"],
-.vertical-align > [class*=" col-"] {
-  display: flex;
-  align-items: center;
-  justify-content: center; /* Optional, to align inner items 
-                              horizontally inside the column */
+.vcenter {
+    display: inline-block;
+    vertical-align: bottom;
+    float: none;
 }
 
 /* Bulletpoint spacing */

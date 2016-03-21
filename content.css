@@ -114,7 +114,9 @@ body {
 }
 
 
-.featurette-image {margin-top:50px !imporant;}
+.featurette-image {margin-top: 25%;
+  margin-bottom: 25%;
+}
 
 /* Bulletpoint spacing */
 .public{ 

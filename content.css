@@ -111,11 +111,11 @@ body {
 
 .vcenter {
     display: inline-block;
-    vertical-align: bottom;
+    vertical-align: bottom !important;
     float: none;
 }
 
-.featurette-image {margin-top:50px;}
+.featurette-image {margin-top:50px !imporant;}
 
 /* Bulletpoint spacing */
 .public{ 

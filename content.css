@@ -108,12 +108,11 @@ body {
 
 /*space pictures down*/
 	
-
-.vcenter {
-    display: inline-block;
-    vertical-align: bottom !important;
-    float: none;
+.vertical-align {
+    display: flex;
+    align-items: center;
 }
+
 
 .featurette-image {margin-top:50px !imporant;}
 

@@ -109,14 +109,14 @@ body {
 /*space pictures down*/
 	
 .vertical-align {
-    display: flex;
-    align-items: center;
+  position: relative;
 }
 
 
-.featurette-image {margin-top: 25%;
-  margin-bottom: 25%;
-}
+.horizonalchange {
+  position:absolute
+  top:50%
+  transform: translateY(-50%);}
 
 /* Bulletpoint spacing */
 .public{ 

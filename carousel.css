@@ -106,13 +106,17 @@ body {
   padding: 10px 0px; 
 }
 
+/*thanksto spaces*/
+
+.thanksto{ margin-bottom: 20px;}
+
 /* Contact page */
 .contactpage p{font-size:21px;
   }
 
 .contactpage h2{font-size: 30px;
  color:black;
- margin-top: 20px}
+ margin-top: 20px;}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
